@@ -55,7 +55,7 @@
 | <img src="img/icon_notes_large_2x.png" width="52"/>              | Notes               | com.apple.mobilenotes                 |
 | <img src="img/icon_numbers_large_2x.png" width="52"/>            | Numbers             | com.apple.Numbers                     |
 | <img src="img/icon_pages_large_2x.png" width="52"/>              | Pages               | com.apple.Pages                       |
-| <img src="img/icon_passwords_large_2x.png" width="52"/>          | Password            | com.apple.Passwords                   |
+| <img src="img/icon_passwords_large_2x.png" width="52"/>          | Passwords           | com.apple.Passwords                   |
 | <img src="img/icon_phone_large_2x.png" width="52"/>              | Phone               | com.apple.mobilephone                 |
 | <img src="img/icon_photo-booth_large_2x.jpg" width="52"/>        | Photo Booth         | com.apple.Photo-Booth                 |
 | <img src="img/icon_photos_large_2x.png" width="52"/>             | Photos              | com.apple.mobileslideshow             |
